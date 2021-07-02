@@ -1,0 +1,32 @@
+body {
+    background-color: black;
+  }
+  
+  h1 {
+    font-size: 50px;
+  }
+  
+  div {
+    margin: auto;
+    color: white;
+    text-align: center;
+  }
+  
+  .limits {
+    max-width: 40%;
+  }
+  
+  .small-text {
+    font-size: 12px;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: auto;
+  }
+  
+  #bottom-link {
+    margin: 2%;
+  }
